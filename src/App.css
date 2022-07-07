@@ -1,0 +1,13 @@
+.completed{
+    opacity: 0.5;
+    text-decoration: line-through;
+}
+
+span{
+    cursor: pointer;
+}
+
+@keyframes deleteAnim {
+    
+    
+}
